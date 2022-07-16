@@ -6,3 +6,4 @@ Flask
 urllib3
 gunicorn
 matplotlib
+PyMuPDF
